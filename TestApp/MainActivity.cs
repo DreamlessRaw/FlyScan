@@ -18,7 +18,7 @@ namespace TestApp
         /// 测试环境获取,正式环境不建议使用静态获取
         /// </summary>
         public static MainActivity Instance;
-
+         
         public FlxScanCodeReceiver flxScanCodeReceiver = new FlxScanCodeReceiver();
 
         protected override void OnCreate(Bundle savedInstanceState)

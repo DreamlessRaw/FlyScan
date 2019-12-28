@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>FlyScan</id>
+    <version>1.0</version>
+    <title>FlyScan to Xamarin</title>
+    <authors>DreamlessRaw</authors>
+    <owners>fissoft,DreamlessRaw</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl>https://github.com/DreamlessRaw/FlyScan</projectUrl>
+    <description>FLY550X设备调用扫码转换Xamarin</description>
+    <copyright>Copyright 2019</copyright>
+  </metadata>
+</package>
